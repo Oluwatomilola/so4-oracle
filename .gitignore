@@ -37,4 +37,3 @@ ISSUES.md
 scripts/.deploy-testnet-state
 /target_local
 oracle/target_local
-.kilo/
